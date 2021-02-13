@@ -1,0 +1,45 @@
+.table1,tr,td{
+border: 1px solid black;
+
+
+
+}
+.table1{
+width: 100%;
+max-width: 700px;
+margin: auto;
+background-color:teal;
+color: white;
+
+
+}
+td{
+padding: 16px;
+
+}
+
+
+
+.google{
+width: 100%;
+position: relative;
+
+
+
+}
+.form{
+max-width: 300px;
+height: 300px;
+margin: auto;
+flex-direction: column;
+position: absolute;
+right: 0px;
+top: 220px;
+
+
+}
+input,textarea{
+    width: 100%;
+    
+
+}
